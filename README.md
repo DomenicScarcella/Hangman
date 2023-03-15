@@ -1,12 +1,16 @@
 # Hangman
-Modified from a Web Dev Simplified project.  My first attempt at using TypeScript!
 
-Made with Vite.
+Modified from a Web Dev Simplified project.  This is my first attempt at using TypeScript!
 
-#To Launch App Locally
+Made with Vite (also my first attempt at a Vite app!).
 
-npm install 
+# To Launch App Locally
+
+npm install
+
 npm run dev
+
+# Gameplay
 
 Hangman can be played by typing on the keyboard or clicking the GUI keys in the app.
 
