@@ -24,6 +24,6 @@ If you make six (6) incorrect guesses before ucovering all the correct letters i
 
 Simple instructions for generating a new word/game are on the screen:  Refresh tab/window or press Enter key for new word/game.
 
-This is a one-page app that fits into a maximum width of 800 pixels and minimum width of 480 pixels.  It's horizontally riented with an aspect ration of 2:1.
+This is a one-page app that fits into a maximum width of 800 pixels and minimum width of 480 pixels.  It's horizontally oriented with an aspect ration of 2:1.
 
 Enjoy!  There are more than 800 words in the storage file.
