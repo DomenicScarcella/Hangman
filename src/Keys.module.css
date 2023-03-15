@@ -1,0 +1,25 @@
+.btn {
+    width: 1.75rem;
+    background: whitesmoke;
+    font-weight: bold;
+    font-size: 1rem;
+    aspect-ratio: 1 / 1;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: black;
+}
+
+.btn.active {
+    background-color: darkgreen;
+    color: whitesmoke;
+}
+
+.btn.inactive {
+    color: red;
+    opacity: .33;
+}
+
+.btn:hover:not(:disabled),
+.btn:focus:not(:disabled) {
+    background-color: yellow;
+}
